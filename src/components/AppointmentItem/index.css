@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item-container {
+  list-style-type: none;
+  border-radius: 5px;
+  border: 1px #b5b7c4 solid;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+.star-icon {
+  height: 16px;
+  width: 16px;
+}
+.star-btn {
+  background-color: transparent;
+  border: 0px;
+}
